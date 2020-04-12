@@ -1,7 +1,7 @@
 
 <template>
 <!--hide mobile-->
-  <v-toolbar class="hidden-sm-and-down"
+  <v-toolbar class="hidden-xs-sm-and-down"
     color="primary"
     dense
     fixed
